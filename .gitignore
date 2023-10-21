@@ -1,5 +1,1 @@
-HelloWorld.txt
-*.js
-*html
-
-#entered items do not show up when "git status" is called
+HelloWorld.cpp
